@@ -18,6 +18,8 @@ yarn install
 
 ## Running
 
+TESTE PARA AULA
+
 You can run the sample app in a couple of different ways. The first is to launch the application via `yarn`:
 
 ```shell
